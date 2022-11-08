@@ -6,3 +6,4 @@ elif num > 0:
     print("pozitív")
 else:
     print("nulla")
+    

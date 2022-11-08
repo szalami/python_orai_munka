@@ -12,3 +12,6 @@ print()
 for k in range(0,50):           # ugyanaz mint a fenti csak bonyolultan :)
     if k % 5 == 0:
         print (k, end=" ")
+
+print()
+
