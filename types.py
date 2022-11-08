@@ -82,3 +82,6 @@ print(5%2)          # maradékot adja vissza
 
 
 
+
+
+
